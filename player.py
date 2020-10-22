@@ -1,2 +1,4 @@
 class Player:
-  pass
+  
+  def get_points(self):
+    return 100

@@ -1,2 +1,5 @@
 class Alien:
-  pass
+
+  def fire(self):
+    print("pew pew pew")
+
