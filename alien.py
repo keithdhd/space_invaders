@@ -5,3 +5,6 @@ class Alien:
 
   def explode(self):
     print("boom")
+
+  def die(self):
+    print("arrgghhh....")
