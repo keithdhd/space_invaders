@@ -5,3 +5,7 @@ class Alien:
 
   def explode(self):
     print("boom")
+
+  def die(self):
+    if self.points == 0:
+      print("Alien died")
