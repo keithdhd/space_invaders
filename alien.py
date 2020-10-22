@@ -3,5 +3,5 @@ class Alien:
   def fire(self):
     print("pew pew pew")
 
-  def explode(seld):
+  def explode(self):
     print("boom")
